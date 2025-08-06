@@ -300,6 +300,14 @@ module.exports = {
 
 ---
 
+## 🔒 Sécurité
+
+Ce repository est 100% public et ne contient aucun contenu privé. Tous les standards, templates et outils sont partagés librement pour la communauté.
+
+**Note : Le contenu privé (identité personnelle de l'assistant, règles de communication, notes confidentielles) est géré séparément dans Obsidian pour une sécurité maximale.** 🔒
+
+---
+
 ## 📄 Licence
 
 MIT License - Voir [LICENSE](LICENSE) pour plus de détails.
